@@ -6,4 +6,4 @@ for i in range(1,61):
     elif i%5==0:
         print("Buzz")
     else:
-        print(i)            
+        print()            
